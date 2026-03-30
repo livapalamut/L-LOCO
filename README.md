@@ -1,4 +1,4 @@
-# L-LOCO# 🌿 Liloco: Akıllı Sürdürülebilir Alışveriş Asistanı
+#  Liloco: Akıllı Sürdürülebilir Alışveriş Asistanı
 
 **Liloco**, market alışverişlerini bir endüstri mühendisi gözüyle optimize eden; karbon ayak izini, bütçeyi ve besleyiciliği aynı anda yöneten yapay zeka tabanlı bir mobil asistandır.
 
